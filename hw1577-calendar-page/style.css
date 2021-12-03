@@ -1,0 +1,23 @@
+body{
+    background-color: #FFFFCC;
+}
+h2{
+    text-decoration: underline;
+}
+#navigation{
+    /* Vi tri tuyet doi */
+    margin-left: 25%;
+    text-align: center;
+}
+#tablesectionOne,tablesectionTwo,tablesectionThree,tablesectionFour{
+    /* Table layout duoc fixed */
+    text-align: center;
+    background-color: #FFFFDD;
+    /* Vi tri tuyet doi */
+    margin-top: 7em;
+}
+.CAPTION{
+    background-color: rgb(255, 185, 115);
+    font-family: arial;
+    font-size: 1em;
+}

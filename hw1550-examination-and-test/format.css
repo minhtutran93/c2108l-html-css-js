@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(255, 255, 240);
+    margin-left: 20%;
+}
+
+.textarea{
+    /* Thiếu: scrollbar... */
+}
+
+.imgHelp{
+    cursor: help;
+}
+
+    /* Thiếu: lớp emaileditor có màu nền là... */
+
+#main{
+    width: 400px;
+    background-color: #DDFFEE;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#help{
+    /* Thiếu: vị trí tuyệt đối */
+    width: 500px;
+    height: 420px;
+    margin-top: 10px;
+    background-color: #cdc;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* Thiếu: ẩn phần tử này */
+    border-color: #e4e7e7;
+    border-width: 2px;
+    border-style: solid;
+}
+p#help{
+    color: #303030;
+}
+/* Thiếu: lớp Close... */
+
+/* Danh sách có class "list" có kiểu như sau */
+.list{
+    /* Thiếu: nhiều */
+}
